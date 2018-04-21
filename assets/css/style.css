@@ -1,0 +1,90 @@
+.header {
+    
+    width: 25%;
+    color: #ffffff;
+    //padding: 5px;
+    background-color:  #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border-color: #cccccc;
+    position: absolute;
+    left: 264px;
+    top: 8px;
+    z-index: 1;  
+}
+
+.container {
+    margin: auto;
+    width: 60%;
+    border:3px solid, #dddddd;
+    padding: 10px;
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    //position: absolute;
+    z-index: 2;
+    clear: both;
+    
+}
+
+style {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+    
+
+.me {
+    color: #777777;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 20%;
+    height: 45%;
+    position: relative;
+    z-index: 3;
+    right: -685px;
+    top: -407px;
+}
+
+
+img {
+    width: 35%;
+    height: 30%;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+footer {
+    background-color: #666666;
+    border-top: solid #4aaaa5 6px;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    box-sizing: 100%;
+}
+
+h2 {
+    border-bottom: solid lightgray 5px;
+}
+
+.form-group .form-control {
+    color: black;
+    width: 800px;
+}
+
+form {
+    background-color: #ffffff;
+    color: #777777;
+   // width: 800px;
+    //height: 80%;
+    
+
+}
+
+.form-group text .form-control {
+    height: 80px;
+}
