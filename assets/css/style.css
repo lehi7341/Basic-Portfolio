@@ -71,20 +71,4 @@ h2 {
     border-bottom: solid lightgray 5px;
 }
 
-.form-group .form-control {
-    color: black;
-    width: 800px;
-}
 
-form {
-    background-color: #ffffff;
-    color: #777777;
-   // width: 800px;
-    //height: 80%;
-    
-
-}
-
-.form-group text .form-control {
-    height: 80px;
-}
